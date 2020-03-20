@@ -31,15 +31,11 @@
 # Phase 3 : Machine Learning Model
 > `regression.ipynb` | `kmeans.ipynb`
 ## Goal
-- In Phase 3, we implemented a couple of different machine learning models on our dataset. We had originally planned on making 
-  a KNN classifier to predict whether a video is trending/non-trending, however there was much difficulty in classifiying non-trending
-  videos while scraping YouTube. Instead, we created a linear regression model to predict the number of views a video will receive based
-  on the number of likes/dislikes/comments. We also implemented a K-Means cluster on the unique words in the video "tags" in order to see
-  if there were any distinct clusters that showed any correlation between tags and likes/dislikes/comments/views.
+- In Phase 3, we implemented a couple of different machine learning models on our dataset. We had originally planned on making a KNN classifier to predict whether a video is trending/non-trending, however there was much difficulty in classifiying non-trending videos while scraping YouTube. Instead, we created a linear regression model to predict the number of views a video will receive based on the number of likes/dislikes/comments. We also implemented a K-Means cluster on the unique words in the video "tags" in order to see if there were any distinct clusters that showed any correlation between tags and likes/dislikes/comments/views.
   
-  # Project Contributions
-  - Garret, Jerry, and Cameron all contributed equally during each phase of the project. 
-    - In Phases 1 and 3, all three partners worked
+# Project Contributions
+- Garret, Jerry, and Cameron all contributed equally during each phase of the project. 
+  - In Phases 1 and 3, all three partners worked
     together on the same files and did pair-programming in order to implement the scraper and machine learning models.
-    - In Phase 2,
+  - In Phase 2,
     each partner made their own EDA file with a pre-discussed topic to dive deeper into and analyze.
